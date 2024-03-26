@@ -1,0 +1,41 @@
+Data must be in the following format. Each set of data is separated by a blank line. For male names, include a "Mr" in front. 
+
+FLOOR
+UNIT
+NAME
+NUMBER
+RACE
+AGE
+
+
+13
+150
+Mr Tan
+98765432
+Chinese
+70
+
+13
+150
+Siti
+97382811
+Malay
+30
+
+12
+150
+
+See data.txt for template
+
+
+After running, Visits.py will ask for Postal Code in the terminal. Type and hit enter so the rest of the code can run
+
+IMPORTANT:
+Replace path in options.binary.location with Browser executables.
+Replace path in chrome_path with location where Chrome driver is installed (install from selenium website)
+
+Debug.py is for data testing purposes. Use it to view the data_list and debug other stuff without affecting the main code.
+
+
+Last tested: 14 March 2024
+Tested on: Brave Browser Version 1.63.169 Chromium 122.0.6261.111
